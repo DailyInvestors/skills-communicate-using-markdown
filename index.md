@@ -1,3 +1,3 @@
-```python
-def hello_world():
-  print("Hello, World!")
+``` javascript
+var myVar = "Hello, world!";
+```
