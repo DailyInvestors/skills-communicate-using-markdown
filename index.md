@@ -1,6 +1,6 @@
 # 🚀 Daily Investors
 
-> **Welcome to your portfolio!**  
+> **Welcome, these are some of the few future projects we have in store!**  
 > _Showcasing your projects, achievements, and journey in the world of investing and development._
 
 ---
@@ -31,11 +31,20 @@
 | **Market Analyzer**    | Real-time stock market analysis tool         | [Repo](#)        |
 | **Crypto Tracker**     | Track your favorite cryptocurrencies easily  | [Repo](#)        |
 | **Portfolio Dashboard**| Visualize and manage your investments        | [Repo](#)        |
-| **Mobile Security App**| Protect your device at all cost              | [Repo] (#)       |
-| **Google Patches**     | Help secure Open-Source                      | [Repo] (#)       |
-| **Firewalls**          | Background Agents                            | [Repo] (#)       |
-| **Robots, Agents, Games, Websites. Engines, Automates, Intrusion Detetcion, School, etc  |
----
+| **Mobile Security App**| Protect your device at all cost              | [Repo](#)        |
+| **Google Patches**     | Help secure Open-Source                      | [Repo](#)        |
+| **Firewalls**          | Background Agents                            | [Repo](#)        |
+| **Robots**             | Security && Defense                          | [Repo](#)        |
+| **Agents**             | Logging, Automating, Scanning, Repairing     | [Repo](#)        |
+| **VPN**                | Custom Public and Private VPN's              | [Repo](#)        |
+| **CDN**                | Custom Security over Websites/Networks       | [Repo](#)        |
+| **Games**              | Coming soon with....                         | [Repo](#)        |
+| **Websites**           | Codes to showcase skills                     | [Repo](#)        |
+| **Engines**            | Custom Engines                               | [Repo](#)        |
+| **Automates**          | Help out time consuming tasks                | [Repo](#)        |
+| **Intrusion Detetcion Systems** | Extra layer of Binding and Protection | [Repo](#)      |
+| **School**             | Teach, Educate, Inform, Create               | [Repo](#)        |
+| **Anti-Spyware*        | Cutting Edge Technology for the future       | [Repo](#)        |
 
 ## 💡 Tips & Tricks
 
